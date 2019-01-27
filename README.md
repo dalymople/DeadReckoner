@@ -30,11 +30,12 @@ This pcb has an inbuilt raspberry 40 pin header for direct connection to a Raspb
 - 3.3V UART (Pi '/dev/serial0')
 - SPI (Pi SPI bus 0)
 - Micro USB (No connection to header)
-- External interupt (Pi GPIO 11)
+- External interrupt (Pi GPIO 11)
 - Pulse per second (Pi GPIO 13)
 - Reset (Pi GPIO 15)
 - Power LED
 - USB LED
+- Pulse per second LED
 
 If the default connections are not suitable for your application you can solder wires to the pads provided for each signal.
 
