@@ -2,6 +2,9 @@
 This is a carrier board for the U-blox NEO-M8U GNSS (multi-constelation support) module with the worlds first untethered dead reckoning capability. This provides far superior location accuracy in areas of poor signal coverage. This module also contains a backup battery which allows the module to start navigating immediately on startup (if it has not been moved since shutdown).
 See [the U-blox website](https://www.u-blox.com/en/product/neo-m8u-module) for more info.
 
+## Guides
+See the wiki for guides on using this module...
+
 ## NEO-M8U Specs
 The module provides:
 - Independent of any electrical connection to the car
@@ -64,4 +67,4 @@ The NEO-M8U has a full speed USB 2.0 host and the micro USB connector allows the
 
 ## Errors and Ommissions
 **Version 1**
-No errors or ommissions have been found for this board. Please submitt an issue if you find any problems with the module.
+- No errors or ommissions have been found for this board. Please submitt an issue if you find any problems with the module.
