@@ -61,3 +61,7 @@ By default the I2C port is the only signal connected to the header, however sold
 
 ## USB Connection
 The NEO-M8U has a full speed USB 2.0 host and the micro USB connector allows the module to be connected to a computer. When connected the device will enumerate as a COM port, U-blox website for more information and for USB drivers. **NB.** The usb port will not function unless the module is powered.
+
+## Errors and Ommissions
+**Version 1**
+No errors or ommissions have been found for this board. Please submitt an issue if you find any problems with the module.
