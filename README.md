@@ -2,8 +2,8 @@
 This is a carrier board for the U-blox NEO-M8U GNSS (multi-constelation support) module with the worlds first untethered dead reckoning capability. This provides far superior location accuracy in areas of poor signal coverage. This module also contains a backup battery which allows the module to start navigating immediately on startup (if it has not been moved since shutdown).
 See [the U-blox website](https://www.u-blox.com/en/product/neo-m8u-module) for more info.
 
-## Guides
-See the wiki for guides on using this module...
+## Quick Start
+See [the wiki](https://github.com/dalymople/DeadReckoner/wiki) for guides on using this module.
 
 ## NEO-M8U Specs
 The module provides:
