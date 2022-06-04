@@ -24,7 +24,7 @@ The module provides:
 - Supply voltage 5V or 3V3 (5V only on the Raspberry Pi version)
 - Current requirement max 67mA, typical 29mA
 - Digital IO voltage, 3V3
-- Dimensions 65mm x 35mm
+- Dimensions 65mm x 35mm (RPi) 52mm x 36.5mm (Compact)
 - Time to first fix: cold start 26 to 57s, hot start 1.5s
 - Horizontal position accuracy: 2.5m
 - Velocity accuracy: 0.5m/s
@@ -46,5 +46,5 @@ The NEO-M8U supports the following connections:
 - Pulse per second LED
 
 ## Errors and Ommissions
-**Version 1**
+**Version 2**
 - No errors or ommissions have been found for this board. Please submitt an issue if you find any problems with the module.
